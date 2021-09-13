@@ -71,6 +71,32 @@ thead {
     background-color: rgb(160, 235, 238);
 }
 
+/* final part */
+#may-also-like {
+    color: darkgrey;
+    margin: 20px 0 5px 0;
+}
+
+#monitor-image-1 {
+    width: 280px;
+    height: 210px;
+    background-image: url(../img/monitor.jpg);
+    color: #fff;
+    font-size: 24px;
+}
+
+#monitor-image-2 {
+    width: 280px;
+    height: 210px;
+    background-image: url(../img/graph.jpg);
+    color: #fff;
+    font-size: 24px;
+}
+
+.text-image {
+    padding: 10px;
+}
+
 
 
 
