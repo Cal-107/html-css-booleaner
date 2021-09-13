@@ -47,6 +47,10 @@ ul {
     padding-left: 15px;
 }
 
+.text-emphasized {
+    background-color: #ffff00
+}
+
 /* table setup */
 table {
     width: 100%;
