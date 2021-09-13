@@ -4,18 +4,25 @@
 
 .container {
     width: 60%;
-    margin: auto;
 }
 
+ /* heaader setup */
 .logo-container {
     background-color: deepskyblue;
     background-image: url('../img/pattern.png');
     background-repeat: repeat;
+    background-size: 390px;
 }
 
+ /* booleaner logo setup */
 #logo {
-    width: 250px;
-    padding: 10px 2px 0;
+    width: 200px;
+    padding: 30px 5px 0;
+}
+
+/* main setup */
+#author-date {
+    color: #a9a9a9;
 }
 
 #author {
@@ -28,6 +35,7 @@
 
 h1 {
     margin-bottom: 0;
+    font-size: 37px;
 }
 
 #photos-description {
@@ -38,3 +46,31 @@ h1 {
 ul {
     padding-left: 15px;
 }
+
+/* table setup */
+table {
+    width: 100%;
+    text-align: Left;
+    border-collapse: collapse;
+}
+
+td {
+    width: 1%;
+}
+
+th {
+    color: #fff;;
+}
+
+thead {
+    background-color: #0096c7;
+}
+
+
+.table-row {
+    background-color: rgb(160, 235, 238);
+}
+
+
+
+
